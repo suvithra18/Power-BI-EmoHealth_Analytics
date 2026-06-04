@@ -142,7 +142,17 @@ The project uses structured healthcare datasets including:
 ---
 
 ## 📷 Dashboard Screenshots
+<p align="center">
+  <img src="screenshots/overview.png" width="45%">
+  <img src="screenshots/health.png" width="45%">
+</p>
 
+<p align="center">
+  <img src="screenshots/mood_psychology.png" width="45%">
+  <img src="screenshots/body_health.png" width="45%">
+</p>
 
-
+<p align="center">
+  <img src="screenshots/lifestyle.png" width="45%">
+</p>
 ---

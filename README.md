@@ -154,5 +154,11 @@ The project uses structured healthcare datasets including:
 
 <p align="center">
   <img src="screenshot/lifestyle.png" width="45%">
+  <img src="screenshot/diet.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshot/natural.png" width="45%">
+  <img src="screenshot/doctor.png" width="45%">
 </p>
 
